@@ -1,0 +1,10 @@
+F:\Atlas\Desarrollo\Google Code Jam\2016\Problem A. Counting Sheep\ProblemA\bin\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Google Code Jam\2016\Problem A. Counting Sheep\ProblemA\bin\Debug\ProblemA.pdb
+F:\Atlas\Desarrollo\Google Code Jam\2016\Problem A. Counting Sheep\ProblemA\obj\x86\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Google Code Jam\2016\Problem A. Counting Sheep\ProblemA\obj\x86\Debug\ProblemA.pdb
+F:\Atlas\Desarrollo\Google Code Jam\2017\ProblemA\obj\x86\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Google Code Jam\2017\ProblemA\obj\x86\Debug\ProblemA.pdb
+F:\Atlas\Desarrollo\Google Code Jam\2017\ProblemA\bin\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Google Code Jam\2017\ProblemA\bin\Debug\ProblemA.pdb
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\obj\x86\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\obj\x86\Debug\ProblemA.pdb

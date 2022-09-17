@@ -1,0 +1,27 @@
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\bin\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\bin\Debug\ProblemA.pdb
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\obj\x86\Debug\ProblemA.exe
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\obj\x86\Debug\ProblemA.pdb
+F:\Atlas\Desarrollo\Tuenti Challenge\2017\Challenge 1 - Pizza love\obj\x86\Debug\Challenge7.csprojResolveAssemblyReference.cache
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\obj\x86\Debug\Challenge7.csproj.AssemblyReference.cache
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\obj\x86\Debug\Challenge7.csproj.CoreCompileInputs.cache
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\obj\x86\Debug\ProblemA.exe
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\obj\x86\Debug\ProblemA.pdb
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\ProblemA.exe
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\ProblemA.pdb
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\mscorlib.dll
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\ES\mscorlib.resources.dll
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\sortkey.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\sorttbls.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\big5.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\bopomofo.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\ksc.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\prc.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\prcp.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\xjis.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\normidna.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\normnfc.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\normnfd.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\normnfkc.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\bin\Debug\normnfkd.nlp
+F:\02-PROYECTOS\01-PUBLICOS\Challenges\Tuenti.Challenge\2017\Tuenti.Challenge.7\obj\x86\Debug\Challenge7.csproj.CopyComplete
